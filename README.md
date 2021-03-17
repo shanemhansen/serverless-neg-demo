@@ -4,4 +4,4 @@ Quick demo of using GCP serverless network endpoint groups, showing how to mix a
 
 ## Required reading
 
-(Serverless Network Endpoint Groups)[https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts]
+[Serverless Network Endpoint Groups](https://cloud.google.com/load-balancing/docs/negs/serverless-neg-concepts)
